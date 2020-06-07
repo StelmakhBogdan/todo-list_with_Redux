@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1d27440-5c51-41dd-bf2b-1fb5ee1d30bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/todo/src/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/actions/index.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/app/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/app/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/footer/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/footer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/link/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/link/link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/link/link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/todo-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/todo-item/todo-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/todo-item/todo-item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/todo-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/todo-list/todo-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/todo-list/todo-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/containers/add-todo/add-todo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/containers/add-todo/add-todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/containers/filter-link/filter-link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/containers/filter-link/filter-link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/containers/visible-todo-list/visible-todo-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/containers/visible-todo-list/visible-todo-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/reducers/todos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/reducers/todos.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/reducers/visibility-filter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/todo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/todo" />
+  </component>
+  <component name="ProjectId" id="1bL3oGCH4P8NAHVTSH21T6yg30X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\web-developer\js\React-and-Redux\Redux\todo-list\todo\src" />
+      <recent name="D:\web-developer\js\React-and-Redux\Redux\todo-list\todo\src\components\app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1d27440-5c51-41dd-bf2b-1fb5ee1d30bd" name="Default Changelist" comment="" />
+      <created>1588397721481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588397721481</updated>
+      <workItem from="1588397731233" duration="10469000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
